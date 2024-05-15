@@ -1,0 +1,46 @@
+strong {
+  font-size: large;
+}
+
+#todo-container {
+  width: 175px;
+  height: 160px;
+  color: black;
+  background-color: rgba(255, 255, 255, 0.4);
+  border: 2.5px solid rgba(255, 255, 255, 0.5);
+  border-radius: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  white-space: wrap;
+  /* overflow: hidden; */
+  margin: 5px;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+#todo-button-container {
+  display: flex;
+  flex-direction: "column";
+}
+
+#delete-button {
+  color: rgb(59, 59, 59);
+  border: 2.5px solid rgb(252, 69, 69);
+  border-radius: 10px 10px 10px 10px;
+  background-color: transparent;
+  margin: 5px;
+  font-weight: bold;
+}
+
+#done-button {
+  color: rgb(59, 59, 59);
+  border: 2.5px solid green;
+  border-radius: 10px 10px 10px 10px;
+  background-color: transparent;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}

@@ -1,0 +1,10 @@
+:root {
+  background-image: linear-gradient(to left, #1e2958, #010922);
+}
+
+#container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
