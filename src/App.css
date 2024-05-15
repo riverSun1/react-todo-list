@@ -2,7 +2,9 @@
   background-image: linear-gradient(to left, #1e2958, #010922);
 }
 
-#container {
+#layout {
+  max-width: 1200px;
+  min-width: 800px;
   position: absolute;
   left: 50%;
   top: 50%;

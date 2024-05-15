@@ -21,7 +21,7 @@ const TodoList = () => {
   ]);
 
   return (
-    <div id="container">
+    <div id="layout">
       <Header />
       <InputForm todos={todos} setTodos={setTodos} />
       <List todos={todos} setTodos={setTodos} />
