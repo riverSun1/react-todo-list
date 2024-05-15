@@ -24,4 +24,4 @@
 👉 https://sun1-todo-list.netlify.app/
 <br>
 
-<img src="https://github.com/riverSun1/challenge-class/assets/67379144/fd05e33f-ca34-4f0d-8fb0-0973c15b6672" width="500"/>
+<img src="https://github.com/riverSun1/react-todo-list/assets/67379144/e15f023d-bc6a-4dd7-8871-454a5a7d71b6" width="700"/>
